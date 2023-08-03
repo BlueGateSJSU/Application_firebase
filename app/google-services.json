@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424942461499",
+    "project_id": "bluegate-9ed94",
+    "storage_bucket": "bluegate-9ed94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424942461499:android:2b91b035df9849961f321e",
+        "android_client_info": {
+          "package_name": "com.bluegate.autodoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424942461499-u7lf8gt0co6574f6ivle2tdbaci59v0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHpUTepbxoSyDh4wlSRmwHG8qJoCJWvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424942461499-u7lf8gt0co6574f6ivle2tdbaci59v0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
